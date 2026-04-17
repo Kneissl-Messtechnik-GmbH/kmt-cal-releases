@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "KMT Kalibriersoftware 0.2.0",
+  "pub_date": "2026-04-17T17:27:45Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTmlQZWV0NVYwVExRVzlyNlNrRjhPL0tVWjlLUEpEQWJ1K1hOR2ZYNWdZQmVud3BYSFZuS0h4SmFSQ29qSS9XbEhVdnc2UVFKcy9uVWVHTnpnL3ZmN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQ2NjQzCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlXzAuMi4wX3g2NC1zZXR1cC5leGUKV2c2K3FWczVUZlF3Vm5JUzQyaWVyci9WYzBmdTJwK1NFWVZiWmUzMzZCZmw2MUU1dm5JMUJPVjA0SGZtbXRuRUlZVEdmeklHSXBTenJQaTNlYnk0REE9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.2.0/KMT Kalibriersoftware_0.2.0_x64-setup.exe"
+    }
+  }
+}
