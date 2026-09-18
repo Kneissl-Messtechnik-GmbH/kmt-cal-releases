@@ -1,19 +1,19 @@
 {
-  "version": "0.25.0",
-  "notes": "KMT Kalibriersoftware 0.25.0 — Fehler lassen sich jetzt direkt aus der App melden: Stelle im Bild markieren, absenden, fertig. Ausserdem stehen die Umgebungsbedingungen wieder auf dem Kalibrierschein, und das vollstaendige Audit der Freigabe-Pruefungen (37 Befunde) ist umgesetzt.",
-  "pub_date": "2026-09-10T13:35:00Z",
+  "version": "0.26.0",
+  "notes": "KMT Kalibriersoftware 0.26.0",
+  "pub_date": "2026-09-18T23:16:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTm5LQ0FiRWZmU0d3L0w0MWtDa29VNWx0RldjNEx2Mm56NHVEempZeHYxK3MzczFGYmU5QTRJckU4VldIQlpqTmdqOGlQZDVoaDZKT0NyNHVJeDk5SVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ2NzQwCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlXzAuMjUuMF94NjQtc2V0dXAuZXhlCldxWnVSR3l0ckExbmJxOUpyaWJwNVFJZjMwUjlacmZ0SEt4cmdQZ0lWRnBlbGRyV1VTWkpLbVdXZ1QxekxzSU1pWjdVYnJVZnprL0w5bzVxVDBnRUFnPT0K",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.25.0/KMT%20Kalibriersoftware_0.25.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTnZwRE92Vlo5SUt2LzBHdm9PTUFxNWZSZXJWamI1bUUweXA5dzdEUUptMXY4dkk3eTB5RjRDb3JTM1VUZ3RxNnlmcFR2amFpaW41anVObGhZQm9rNVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzczMTE4CWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlXzAuMjYuMF94NjQtc2V0dXAuZXhlCjN3TzNoK21zWGF2Z2J0ZEFlZkZxVDZjTkp3RHVydUFOMGxxa2x1amphbGg1SDZDMm1yRmp3aDRwWlB4WjZOT2kxRVFFdDJKdnZFNzd4bXR2VEJYYUFBPT0K",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.26.0/KMT Kalibriersoftware_0.26.0_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTmszdXNqY2Qwdlhqa21qb0JDYURLM2plVkpleCtFWEhzTzdaL0Qvd2VIcERYd25EdkxpNWZFUjdraVFJVVYrTDcxU21YZEVrTnN4UlZkK1hpWE1FcWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ1NTIyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKZUlGdnJ4K0hlUGlOK3hUMUd5akJDY0ovNG96ekR6NWIvejdFdXU0YlVuc2Z3YTV0MHR2eFRodXpYVEU2T3haTWZsK2RWNVd5M0xNaU5QMWdDQkdMQlE9PQo=",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.25.0/KMT%20Kalibriersoftware.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTmgyQjVKSUZGV3BZQkM3STZ3bm45MHZVVEtPYUxHZ0lWak8vMnlldUlwY1l3K3RaYTc3UEc3WXpqZXJTVGNaZ0hJcmtpdzBHdlZzQ2dudkJVTys4Q2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzczMzc2CWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKU0dMNlZqZncwZGg4RENwOTdTVW81b1ByRFFPTmRHbzNyVWFyWHNrWTJrVW1HWENYZmtqazJ1Mmt1UFJPdW1WakJTdnVTUkZTZHpEZjRzSE1RejFzQXc9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.26.0/KMT Kalibriersoftware.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTmszdXNqY2Qwdlhqa21qb0JDYURLM2plVkpleCtFWEhzTzdaL0Qvd2VIcERYd25EdkxpNWZFUjdraVFJVVYrTDcxU21YZEVrTnN4UlZkK1hpWE1FcWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MDQ1NTIyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKZUlGdnJ4K0hlUGlOK3hUMUd5akJDY0ovNG96ekR6NWIvejdFdXU0YlVuc2Z3YTV0MHR2eFRodXpYVEU2T3haTWZsK2RWNVd5M0xNaU5QMWdDQkdMQlE9PQo=",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.25.0/KMT%20Kalibriersoftware.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTmgyQjVKSUZGV3BZQkM3STZ3bm45MHZVVEtPYUxHZ0lWak8vMnlldUlwY1l3K3RaYTc3UEc3WXpqZXJTVGNaZ0hJcmtpdzBHdlZzQ2dudkJVTys4Q2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NzczMzc2CWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKU0dMNlZqZncwZGg4RENwOTdTVW81b1ByRFFPTmRHbzNyVWFyWHNrWTJrVW1HWENYZmtqazJ1Mmt1UFJPdW1WakJTdnVTUkZTZHpEZjRzSE1RejFzQXc9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.26.0/KMT Kalibriersoftware.app.tar.gz"
     }
   }
 }
