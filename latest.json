@@ -1,19 +1,19 @@
 {
-  "version": "0.29.0",
-  "notes": "KMT Kalibriersoftware 0.29.0",
-  "pub_date": "2026-09-19T14:07:30Z",
+  "version": "0.30.0",
+  "notes": "KMT Kalibriersoftware 0.30.0",
+  "pub_date": "2026-09-19T16:10:37Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTmtnVUY5N1V2U3R3dGQ4T3Iza3pMRHN1RkVVbjZvVGs5QU1xMjBidnh4VDg4Q0hFNzFZOVBnMEtWTlZ5RStqR0hyVXk3TUJPTnNUOWNnYmJnV3EvNlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI2MDMzCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlXzAuMjkuMF94NjQtc2V0dXAuZXhlCnJzM1NsRWM4Zk80dnF4ZDZOb2tLeFFuemFrdXNqelVrcDZOd0lueElYMFViRFA4WXNzN2FtbTAxQW1PM0VmU09QOGkxa2pHTWpFRnh6Sjl5YkJsbUFnPT0K",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.29.0/KMT Kalibriersoftware_0.29.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTm5pc3lKaCszaGRGWUo5NjZJSVQvQ0kwZndWalY0amdzSzlFVE83VkcxdisvVmtQVnVOMFhoTWhFbDgvZ2dadzlGd3VwUzVRWTc2SmdGTmdIRFFyTHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODMzMzg4CWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlXzAuMzAuMF94NjQtc2V0dXAuZXhlCm1zM2tYQkJmYmp0MldCT01DU0JVVEs4d3M2ZkYxa2ZMTTVxanF2b2hDaDYrczU0UWdwdVg4Z3BhRUIzdXB1R2VpZWo4TE55aUdMWHQzeW4rVHFPa0RBPT0K",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.30.0/KMT Kalibriersoftware_0.30.0_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTm5ia0VwTis3QVMxNUVlTW9vbmdsbXo4REptbW9XUXdYUEdISCtBT0JTUXZPK2U1WGF1L0ZoaFhJa2orcWV1bUpqWmtmWk9tTm9JK2wzS3NpYkJrbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI2ODQ1CWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKMUZPV3U4Q3A0eEdQNGM1dHNucWpTZW1zVTBjZXNMdWtWemZwZzRsSkJKaWpOL3B6Rks1c1hrQVdIc2J5aXcvcFpPa28vci9hQU1NengvbHYwbkR5RGc9PQo=",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.29.0/KMT Kalibriersoftware.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTnVZKytkZERBdXY4SlFZVEU2VnVVOXdtQ1lvdUxqdkVvU1RJOTRqWFV2Y2UxNkdqZGJIRy9sRXVBY1pnb2JOVko1RHQrR084cUo0RDNSbTdSRlh3YUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM0MjMyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKc2dnNFh6WkdtN1IzQmhTbDQva2pVd0p2SE1LQTMvVVFEZVV1ZERHdEZ5ejdZZzVRVFVZNjJNS2xHeW5KdnlkN2xReFB1VGJGT1gvWWtYSjJwMldSQ1E9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.30.0/KMT Kalibriersoftware.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTm5ia0VwTis3QVMxNUVlTW9vbmdsbXo4REptbW9XUXdYUEdISCtBT0JTUXZPK2U1WGF1L0ZoaFhJa2orcWV1bUpqWmtmWk9tTm9JK2wzS3NpYkJrbXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODI2ODQ1CWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKMUZPV3U4Q3A0eEdQNGM1dHNucWpTZW1zVTBjZXNMdWtWemZwZzRsSkJKaWpOL3B6Rks1c1hrQVdIc2J5aXcvcFpPa28vci9hQU1NengvbHYwbkR5RGc9PQo=",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.29.0/KMT Kalibriersoftware.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTnVZKytkZERBdXY4SlFZVEU2VnVVOXdtQ1lvdUxqdkVvU1RJOTRqWFV2Y2UxNkdqZGJIRy9sRXVBY1pnb2JOVko1RHQrR084cUo0RDNSbTdSRlh3YUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODM0MjMyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKc2dnNFh6WkdtN1IzQmhTbDQva2pVd0p2SE1LQTMvVVFEZVV1ZERHdEZ5ejdZZzVRVFVZNjJNS2xHeW5KdnlkN2xReFB1VGJGT1gvWWtYSjJwMldSQ1E9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.30.0/KMT Kalibriersoftware.app.tar.gz"
     }
   }
 }
