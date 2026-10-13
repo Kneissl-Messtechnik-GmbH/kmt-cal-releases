@@ -1,15 +1,15 @@
 {
-  "version": "0.57.1",
-  "notes": "KMT Kalibriersoftware 0.57.1",
-  "pub_date": "2026-10-13T11:46:33Z",
+  "version": "0.58.0",
+  "notes": "KMT Kalibriersoftware 0.58.0",
+  "pub_date": "2026-10-13T15:51:23Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTm1xSTNPYTE1dnkwdFV6aDNPeWxIbXhFNGg5M2tYVUNwL0hqT3pPeWFwYW5WVnZ3WStOb0xPQWpvWERIUFIwcXlxQmlPY1Nnd0FRMUdSb0xzaFEwSEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODkxOTkyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKeWRZMm52UjgzQ1pCZTdNR1d5bmhBaEdrektmL1E5QzA1RnN2bTVaaUNGNnlCc2pjOE9tL3A5MVgzQk9vODZrdGU5OURaRmhzaDIrR0lpV0VSbFZQQ0E9PQo=",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.57.1/KMT Kalibriersoftware.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTnVIcHVUOXhkanZqWGp2UWZaOU9YR2RPWWx5WWY5TjFvaEpNMU5ZTENmSlplVXhpb2d6S0swT29IUmg1QURaWDJCSnRvaE96VUF3TXRJSy9zU1dHMEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTA2NjgyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKR0sra3pxTG93NStNdTFmUnZoUHd1V2pEcHJwb1ZEZDRTQXQxWElvd0dxQ1pNdXd4TytST2pseEJ5WGRjZ1NWQkxobHNGOEZPc2pTWFpKZjRiellIQmc9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.58.0/KMT Kalibriersoftware.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTm1xSTNPYTE1dnkwdFV6aDNPeWxIbXhFNGg5M2tYVUNwL0hqT3pPeWFwYW5WVnZ3WStOb0xPQWpvWERIUFIwcXlxQmlPY1Nnd0FRMUdSb0xzaFEwSEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODkxOTkyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKeWRZMm52UjgzQ1pCZTdNR1d5bmhBaEdrektmL1E5QzA1RnN2bTVaaUNGNnlCc2pjOE9tL3A5MVgzQk9vODZrdGU5OURaRmhzaDIrR0lpV0VSbFZQQ0E9PQo=",
-      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.57.1/KMT Kalibriersoftware.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZ0NNeGQ5WWtqTnVIcHVUOXhkanZqWGp2UWZaOU9YR2RPWWx5WWY5TjFvaEpNMU5ZTENmSlplVXhpb2d6S0swT29IUmg1QURaWDJCSnRvaE96VUF3TXRJSy9zU1dHMEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTA2NjgyCWZpbGU6S01UIEthbGlicmllcnNvZnR3YXJlLmFwcC50YXIuZ3oKR0sra3pxTG93NStNdTFmUnZoUHd1V2pEcHJwb1ZEZDRTQXQxWElvd0dxQ1pNdXd4TytST2pseEJ5WGRjZ1NWQkxobHNGOEZPc2pTWFpKZjRiellIQmc9PQo=",
+      "url": "https://github.com/Kneissl-Messtechnik-GmbH/kmt-cal-releases/raw/main/releases/0.58.0/KMT Kalibriersoftware.app.tar.gz"
     }
   }
 }
